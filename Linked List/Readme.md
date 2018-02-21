@@ -1,4 +1,4 @@
-**Linked List**
+#Linked List
 
 Like arrays, Linked List is a linear data structure.
 
